@@ -20,7 +20,16 @@ def game_hash
                   :assists => 12,
                   :steals => 12,
                   :blocks => 12,
-                  :slam_dunks => 7 }  
+                  :slam_dunks => 7 }  ,
+                  { :player_name => "Mason Plumlee",
+                    :number => 1, 
+                    :shoe => 19, 
+                    :points => 26, 
+                    :rebounds => 11, 
+                    :assists => 6, 
+                    :steals => 3, 
+                    :blocks => 8, 
+                    :slam_dunks => 5 }
                 ]
     },
     :away => {:team_name => "Charlotte Hornets",
